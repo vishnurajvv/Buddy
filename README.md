@@ -30,7 +30,8 @@ External API: NewsAPI
  Project Structure (Mini Version)
 
 ai-tutor-mini/
-│
+
+
 ├── server.js        # Backend server (AI + updates + notifications)
 
 ├── index.html       # Frontend UI
