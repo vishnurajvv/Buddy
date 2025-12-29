@@ -49,7 +49,7 @@ ai-tutor-mini/
  Installation & Setup
 
 ### Step 1: Clone the Repository
-git clone https://github.com/your-username/ai-tutor-mini.git  
+git clone https://github.com/vishnurajvv/Buddy.git  
 cd ai-tutor-mini  
 
 ### Step 2: Install Dependencies
