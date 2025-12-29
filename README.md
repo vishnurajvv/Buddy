@@ -32,10 +32,15 @@ External API: NewsAPI
 ai-tutor-mini/
 │
 ├── server.js        # Backend server (AI + updates + notifications)
+
 ├── index.html       # Frontend UI
+
 ├── style.css        # Basic styling
+
 ├── app.js           # Frontend logic
+
 ├── package.json     # Dependencies
+
 └── README.md
 
 
